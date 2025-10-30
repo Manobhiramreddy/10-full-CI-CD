@@ -1,0 +1,11 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'build step (no-op)';",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
